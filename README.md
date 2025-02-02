@@ -1,3 +1,3 @@
 - 👋 Hi, I’m SIDDHARTH SHARMA
-- 👀 I’m interested in App and Blockchain development
+- 👀 I’m a Computer Science graduate who didn't learn anything significant during his undergraduate studies, therefore, I am learning it again by myself now. Let's see how it goes.
 - 🌱 I’m currently learning JAVA Programming
